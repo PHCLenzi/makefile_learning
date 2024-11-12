@@ -1,4 +1,9 @@
-Ainda nao tenho nenhum tutorial a seguir. O principal objetivo deste repo é aprender a usar makefiles.
+(new) 
+comecei o tutorial com o seguinte sequencia de viceos:
+https://youtube.com/playlist?list=PLNmACol6lYY7Dzvg7jKgvMdDaDEDFnNqD&si=j_iaDGIB-5H0tWlU
+
+(old)Ainda nao tenho nenhum tutorial a seguir. O principal objetivo deste repo é aprender a usar makefiles.
+
 
 Chatgpt, voce mode dar uma introducao doque é o makefile? 
 : 
